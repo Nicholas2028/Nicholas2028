@@ -71,12 +71,23 @@ document and present academic work more clearly.
 
 ## What I'm Working Toward
 
-I’m continuing to turn class projects into polished portfolio pieces by adding:
+I’m continuing to build personal projects to strengthen my programming abilities.
+Some of the projects I’m interested in exploring include:
 
-- Clear README files and setup instructions
-- Tests and example usage
-- Screenshots or demonstrations where they add value
-- Short explanations of design decisions and lessons learned
+- 🎮 **Game development** — Building a small 2D game to practice game loops,
+  object-oriented design, user input, and interactive systems
+- 📅 **Study planner** — Creating a tool to organize courses, assignments,
+  deadlines, and study sessions
+- ✅ **Task tracker** — Developing a task management app with priorities,
+  categories, due dates, and progress tracking
+- 🛒 **E-commerce platform** — Designing a store application with product
+  listings, inventory management, shopping cart functionality, and order tracking
+- 🌐 **Full-stack web application** — Expanding my experience with a project
+  that includes a frontend, backend, database, and user authentication
+
+Alongside personal projects, I’m practicing data structures and algorithms
+through NeetCode and LeetCode to improve my problem-solving skills and prepare
+for technical interviews.
 
 ## Connect
 
