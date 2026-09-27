@@ -2,7 +2,7 @@
 
 # Hi, I'm Nicholas 👋
 
-### Computer Science & Mathematics Student · Software Development · Game Development
+### CS & Math Student · Software Development · Game Development
 
 I’m building personal projects to strengthen my programming fundamentals, practice
 data structures and algorithms, and explore software development across games,
