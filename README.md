@@ -4,11 +4,10 @@
 
  - [License Plate Management System](https://github.com/Nicholas2028/LicensePlateManagementSystem)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me!!</h2>
 
-[<img align="left" alt="nicholascenteno18321 | LinkedIn" width="22px" img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="nicholascenteno18321 | LinkedIn" width="55px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nicholascenteno18321)
 
-[linkedin]: https://linkedin.com/in/nicholascenteno18321
 
 <!--
 **Nicholas2028/Nicholas2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
