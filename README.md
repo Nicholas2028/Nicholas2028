@@ -4,8 +4,9 @@
 
 ### Computer Science Student · Software Development · Java
 
-I’m building practical software, strengthening my programming fundamentals, and
-turning coursework into projects that are clear, useful, and well documented.
+I’m building personal projects to strengthen my programming fundamentals, practice
+data structures and algorithms, and explore software development across games,
+web applications, and practical tools.
 
 <a href="https://github.com/Nicholas2028">
   <img src="https://img.shields.io/badge/GitHub-Nicholas2028-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
