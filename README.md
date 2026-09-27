@@ -1,25 +1,91 @@
-<h1>Hi, I'm Nicholas!</h1>
+<div align="center">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+# Hi, I'm Nicholas 👋
 
- - [License Plate Management System](https://github.com/Nicholas2028/LicensePlateManagementSystem)
+### Computer Science Student · Software Development · Java
 
-<h2> 🤳 Connect with me!!</h2>
+I’m building practical software, strengthening my programming fundamentals, and
+turning coursework into projects that are clear, useful, and well documented.
 
-[<img align="left" alt="nicholascenteno18321 | LinkedIn" width="55px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/nicholascenteno18321)
+<a href="https://github.com/Nicholas2028">
+  <img src="https://img.shields.io/badge/GitHub-Nicholas2028-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a>
 
+<a href="https://www.linkedin.com/in/nicholascenteno18321/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
 
-<!--
-**Nicholas2028/Nicholas2028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 Computer Science major
+- 💻 Interested in software development and problem solving
+- 🧠 Currently strengthening my skills in Java and object-oriented programming
+- 📚 Focused on building a portfolio that shows both technical ability and growth
+
+## Technical Skills
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+### Concepts
+
+![Object-Oriented Programming](https://img.shields.io/badge/Object--Oriented%20Programming-2F80ED?style=flat-square)
+![String Processing](https://img.shields.io/badge/String%20Processing-6C5CE7?style=flat-square)
+![Arrays](https://img.shields.io/badge/Arrays-00A86B?style=flat-square)
+![Validation Logic](https://img.shields.io/badge/Validation%20Logic-F2994A?style=flat-square)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## Featured Projects
+
+### 🚘 [License Plate Management System](https://github.com/Nicholas2028/LicensePlateManagementSystem)
+
+A Java-based utility system for working with license plates and serial formats.
+
+**What it includes:**
+
+- Generating random license plates from a serial format
+- Incrementing plates through a series
+- Retrieving a plate’s serial format
+- Validating vanity plates against defined requirements
+- Analyzing plates by expiration month and serial format
+
+**Built with:** Java · String Manipulation · Arrays · Validation Logic
+
+### 📘 [COSI 21A Programming Assignment 3](https://github.com/Nicholas2028/cosi-21a-pa3)
+
+Coursework from COSI 21A. This repository is part of my ongoing effort to
+document and present academic work more clearly.
+
+> More project context, setup instructions, and examples will be added as this
+> repository is polished.
+
+## What I'm Working Toward
+
+I’m continuing to turn class projects into polished portfolio pieces by adding:
+
+- Clear README files and setup instructions
+- Tests and example usage
+- Screenshots or demonstrations where they add value
+- Short explanations of design decisions and lessons learned
+
+## Connect
+
+<a href="https://www.linkedin.com/in/nicholascenteno18321/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Centeno-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/Nicholas2028">
+  <img src="https://img.shields.io/badge/GitHub-Nicholas2028-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<!-- Add a portfolio website or professional email here when ready. -->
