@@ -63,7 +63,7 @@ A Java-based utility system for working with license plates and serial formats.
 
 **Built with:** Java · String Manipulation · Arrays · Validation Logic
 
-[Expense Tracker](https://github.com/Nicholas2028/Expense-Tracker)
+### 💵 [Expense Tracker](https://github.com/Nicholas2028/Expense-Tracker)
 <!--
 ### 📘 [COSI 21A Programming Assignment 3](https://github.com/Nicholas2028/cosi-21a-pa3)
 
